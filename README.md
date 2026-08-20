@@ -70,7 +70,7 @@ Projeto-1-SPRINT-1/
 
 ## Tecnologias e Bibliotecas Utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pycharm)](https://skillicons.dev)
 
 Manipulação de tabelas e criação de gráficos:
 
